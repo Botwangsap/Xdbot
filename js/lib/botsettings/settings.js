@@ -1,12 +1,12 @@
 const fs = require('fs')
 const chalk = require('chalk')
 // EDIT DISINI
-global.owner = ['6282127075205'] // no own
-global.author = 'KurrXd' // nama author 
-global.packname = 'xd bot whatsapp' // nama pack sticker
-global.namabot = 'XD BOTZ' // nama bot mu
-global.group = 'https://bit.ly/xdbotwhatsapp' // grup mu
-global.pic = 'https://telegra.ph/file/36211850fa46193ef96ad.jpg' // logo lu
+global.owner = ['6281998425782'] // no own
+global.author = 'AnggaKz' // nama author 
+global.packname = 'Bot WhatsApp by AnggaKz' // nama pack sticker
+global.namabot = 'Bot Discord' // nama bot mu
+global.group = 'https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p' // grup mu
+global.pic = 'https://telegra.ph/file/fa1096710b07be0460eb5.jpg' // logo lu
 
 
 let file = require.resolve(__filename)
